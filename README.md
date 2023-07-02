@@ -1,5 +1,34 @@
 # 可访问性相关清单
 
+文档以语言分类，所有的中文内容都直接从二级标题开始，非中文的内容，以语言类别作为二级标题，该语言下的内容从三级标题开始。每一种语言下都采用同样的分类模式，都以“个人”、“组织”、“企业”、“设计”、“产品”、“程序”、“规范”、“资源”进行分类。分类下的内容以文章为主，“设计”、“产品”、“程序”可能和文章语言无关，内容可能是一个成品，这些分类可能不会在其它语言分类中出现，“和可访问性有关的网站主页”这个分类也不按语言分类。每个分类内容可以重复。整体结构类似于：
+
+```json
+{
+  "一": [],
+  "二": [],
+  "三": [],
+  "英语": {
+    "一": [],
+    "二": [],
+    "三": [],
+  },
+  "日语": {
+    "一": [],
+    "二": [],
+    "三": [],
+  }
+}
+```
+
+## 和可访问性有关的网站主页
+
+- [Scott O'Hara](https://www.scottohara.me/)
+- [THE A11Y PROJECT](https://www.a11yproject.com/)
+- [WebAIM](https://webaim.org/)
+- [Jace](http://www.topcss.org/category/web%e6%97%a0%e9%9a%9c%e7%a2%8d-accessibility-%e4%ba%b2%e5%92%8c%e5%8a%9b-%e5%8f%af%e7%94%a8%e6%80%a7/)
+- [Fusion Design](https://alibaba-fusion.github.io/next/)
+- [信息无障碍研究会](http://www.siaa.org.cn/)
+
 ## 个人
 
 ### Scott O'Hara
@@ -9,10 +38,6 @@
 - [精通 ARIA：'Hidden' vs 'None'](https://github.com/wswmsword/my-logs/blob/main/%E7%BF%BB%E8%AF%91/hidden-vs-none.md)
 - [最后一次：自定义单选按钮和复选框的样式](https://github.com/wswmsword/my-logs/blob/main/%E7%BF%BB%E8%AF%91/custom-radio-checkbox-again.md)
 
-### 高橋鴻介
-
-- [Braille Neue](https://brailleneue.com/)
-
 ### 张鑫旭
 
 - [基于VoiceOver的移动web站无障碍访问实战](https://www.zhangxinxu.com/wordpress/2017/01/voiceover-aria-web-accessible-iphone/)
@@ -20,6 +45,10 @@
 - [WAI-ARIA无障碍网页应用属性完全展示](https://www.zhangxinxu.com/wordpress/2012/03/wai-aria-%e6%97%a0%e9%9a%9c%e7%a2%8d%e9%98%85%e8%af%bb/)
 
 ## 组织
+
+### 深圳市信息无障碍研究会
+
+- [怎样实现网页无障碍](http://informationaccessibilityassociation.github.io/webAccessibility/index.html)
 
 ### WebAIM
 
@@ -73,14 +102,7 @@
 
 ## 英语
 
-### 个人
-
-- [Scott O'Hara](https://www.scottohara.me/)
-
 ### 组织
-
-- [THE A11Y PROJECT](https://www.a11yproject.com/)
-- [WebAIM](https://webaim.org/)
 
 #### W3C
 
@@ -99,3 +121,10 @@
 ### 资源
 
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
+
+## 日文
+
+### 个人
+#### 高橋鴻介
+
+- [Braille Neue](https://brailleneue.com/)
