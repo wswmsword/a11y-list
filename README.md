@@ -28,6 +28,7 @@
 - [Jace](http://www.topcss.org/category/web%e6%97%a0%e9%9a%9c%e7%a2%8d-accessibility-%e4%ba%b2%e5%92%8c%e5%8a%9b-%e5%8f%af%e7%94%a8%e6%80%a7/)
 - [Fusion Design](https://alibaba-fusion.github.io/next/)
 - [信息无障碍研究会](http://www.siaa.org.cn/)
+- [进步博客](https://www.topcss.org/)
 
 ## 个人
 
@@ -44,11 +45,19 @@
 - [CSS :focus伪类JS focus事件提高网站键盘可访问性](https://www.zhangxinxu.com/wordpress/2017/04/css-focus-js-improve-accessibility-keyboard/)
 - [WAI-ARIA无障碍网页应用属性完全展示](https://www.zhangxinxu.com/wordpress/2012/03/wai-aria-%e6%97%a0%e9%9a%9c%e7%a2%8d%e9%98%85%e8%af%bb/)
 
+### 进步博客
+
+- [政府无障碍标准和WCAG 2.0](https://www.topcss.org/%E6%94%BF%E5%BA%9C%E6%97%A0%E9%9A%9C%E7%A2%8D%E6%A0%87%E5%87%86%E5%92%8Cwcag-2-0/)
+
 ## 组织
 
 ### 深圳市信息无障碍研究会
 
 - [怎样实现网页无障碍](http://informationaccessibilityassociation.github.io/webAccessibility/index.html)
+
+### 香港社区措施和资讯科技服务
+
+- [无障碍网页手册](https://www.ogcio.gov.hk/sc/our_work/community/web_mobileapp_accessibility/promulgating_resources/handbook/)
 
 ### WebAIM
 
@@ -57,6 +66,11 @@
 ### DO-IT Center
 
 - [接受 #NoMouse 挑战！](https://github.com/wswmsword/my-logs/blob/main/%E7%BF%BB%E8%AF%91/nomouse.md)
+
+### W3C
+
+- [无障碍原则](https://www.w3.org/WAI/fundamentals/accessibility-principles/zh-hans)
+- [简体中文的 W3C 内容](https://www.w3.org/WAI/translations/#simplified-chinese)
 
 ## 企业
 
@@ -94,6 +108,9 @@
 
 ## 规范
 
+- [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-zh/WCAG20-zh-20141009/)
+- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/Translations/WCAG21-zh/)
+
 ## 资源
 
 - [ARIA 标注和 ARIA 关系](https://github.com/wswmsword/my-logs/blob/main/%E7%BF%BB%E8%AF%91/aria-labels-and-relationships.md)
@@ -107,12 +124,19 @@
 #### W3C
 
 - [Developing a Keyboard Interface](https://www.w3.org/WAI/ARIA/apg/practices/keyboard-interface/)
+- [Web Content Accessibility Guidelines (WCAG) 2 Level AA Conformance](https://www.w3.org/WAI/WCAG2AA-Conformance)，WCAG 2.1 AA 徽标
+- [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)，介绍了 WCAG 2 每个版本的情况，包括 2.0、2.1、2.2，也有 WCAG 3 的介绍
+- [WCAG SC](https://www.w3.org/WAI/WCAG22/Understanding/)，对 WCAG 的解释
 
 ### 企业
 
 #### 谷歌
 
 - [Learn Accessibility](https://web.dev/learn/accessibility/)
+
+#### 微软
+
+- [Accessibility Conformance Reports](https://www.microsoft.com/en-us/accessibility/conformance-reports?rtc=1)
 
 ### 规范
 
